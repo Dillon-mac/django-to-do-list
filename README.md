@@ -8,7 +8,7 @@ This is a Django-based web application for managing to-do lists. Users can add t
 - View tasks grouped by day.
 - Mark tasks as completed.
 - Clear all tasks to start a new week.
-- Simple webpage design built using Bootstrap
+- Simple webpage design created using Bootstrap
 
 ## Requirements
 - Python 3.12.4
@@ -59,4 +59,5 @@ This is a Django-based web application for managing to-do lists. Users can add t
   
 ## Screenshot
 
-![Screenshot 2024-08-07 172603](https://github.com/user-attachments/assets/e46f7c88-4704-4825-8400-7cc319d56d58)
+![Screenshot 2024-08-07 211408](https://github.com/user-attachments/assets/77b5b0ce-b9f5-45a8-a928-23cc7832fe5b)
+
