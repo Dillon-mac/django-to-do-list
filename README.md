@@ -59,4 +59,3 @@ This is a Django-based web application for managing to-do lists. Users can add t
 ## Screenshot
 
 ![Screenshot 2024-08-07 172603](https://github.com/user-attachments/assets/e46f7c88-4704-4825-8400-7cc319d56d58)
-2-0bef-4021-8bfe-109f841fd3b6)
