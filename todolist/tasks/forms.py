@@ -1,7 +1,8 @@
 from django import forms
 from .models import Task
 
+# Form to create and edit tasks
 class TaskForm(forms.ModelForm):
     class Meta:
-        model = Task  # Specify the model to use for this form
-        fields = ['title']  # Specify the fields to include in the form
+        model = Task
+        fields = ['title', 'description', 'day', 'completed']
