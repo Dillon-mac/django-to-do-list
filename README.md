@@ -1,7 +1,13 @@
-# To-Do List Django App
+# Django To-Do List Application
 
-## Description
-This is a simple To-Do List application built with Django. Users can add tasks and mark them as complete.
+This is a Django-based web application for managing to-do lists. Users can add tasks, categorize them by day of the week, and clear all tasks to start a new week.
+
+## Features
+
+- Add tasks with titles, descriptions, and assigned days.
+- View tasks grouped by day.
+- Mark tasks as completed.
+- Clear all tasks to start a new week.
 
 ## Requirements
 - Python 3.12.4
@@ -24,9 +30,33 @@ This is a simple To-Do List application built with Django. Users can add tasks a
    ```bash
    python manage.py migrate
 
-## Usage
-1. Start the development server:
+5. Start the development server:
    ```bash
    python manage.py runserver
 
-2. Open your web browser and go to http://127.0.0.1:8000 to see the application in action, and prepare to be very impressed!
+6. Open your web browser and go to http://127.0.0.1:8000 to see the application in action, and prepare to be mildly impressed!
+
+## Usage
+
+1. **Add a Task:**
+
+   - Enter the task title and description.
+   - Select the day of the week for the task.
+   - Click the "Add Task" button.
+
+2. **View Tasks:**
+
+   - Tasks are displayed grouped by the selected day of the week.
+
+3. **Mark Tasks as Completed:**
+
+   - Click the checkbox next to a task to mark it as completed.
+
+4. **Clear All Tasks:**
+
+   - Click the "New Week" button to clear all tasks and start a new week.
+  
+## Screenshot
+
+![Screenshot 2024-08-07 172603](https://github.com/user-attachments/assets/e46f7c88-4704-4825-8400-7cc319d56d58)
+2-0bef-4021-8bfe-109f841fd3b6)
